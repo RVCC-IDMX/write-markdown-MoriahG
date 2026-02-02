@@ -26,11 +26,6 @@ When asked about a Markdown feature, structure your response like this:
 3. A working example
 4. Tips or common mistakes
 
-## Scope
-
-- Focus only on Markdown topics for this assignment
-- If asked about programming languages, gently redirect to Markdown
-- Encourage the student to experiment and preview their work
 
 ## Clarification
 

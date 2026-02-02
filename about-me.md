@@ -1,57 +1,51 @@
 # About me
 
-<!--
-INSTRUCTIONS: Complete each section below using Markdown formatting.
-Ask Copilot for help if you're unsure how to format something!
-Delete these instruction comments when you're done.
--->
-
 ## My name
 
-<!-- Replace this line with your name. Try making it bold! -->
+### **Moriah Guretse**
 
 ## What I'm studying
 
-<!-- What is your major or area of study? -->
+I am an Interface Design and Web Development Major at RVCC.
 
 ## Why I'm taking this course
 
-<!-- Write a sentence or two about why you enrolled in this course. -->
+I enrolled in this course because it is a required course for my major and will aid in the career I am pursuing.
 
 ## My programming experience
 
-<!--
-Describe your previous programming experience using a list.
-If you have none, that's okay! You can write "No previous experience"
-or list other technical skills you have.
-
-Example format:
-- Skill or experience 1
-- Skill or experience 2
--->
+- HTML
+- CSS
+- Python
+- Java
+- JavaScript using Pixi.js
+- Coding in Google Sheets
 
 ## A fun fact about me
 
-<!-- Share something interesting about yourself! -->
+*Dr Pepper is the blood that runs in my veins.*
 
 ## My goals for this semester
 
-<!--
-What do you hope to learn or accomplish?
-Try using a numbered list for your goals:
-
-1. First goal
-2. Second goal
-3. Third goal
--->
-
----
+1. Learn JavaScript!
+2. Create awe-inspiring things with JavaScript
+3. Survive
 
 ## Optional: Add more about yourself
 
-Feel free to add any of these using what you learned in `learn-markdown.md`:
+### My most hated foods:
+| Rank  | Food      |
+| ----- | --------- |
+| 1     | Seafood   |
+| 2     | Pickles   |
+| 3     | Bananas   |
 
-- A link to a website you enjoy
-- A favorite quote (use a blockquote!)
-- A table of your favorite things
-- An image (if you know one you'd like to include)
+[My Love](https://www.drpepper.com)
+
+<details>
+<summary>Open me</summary>
+
+BOO
+![Cat Jumpscare](https://i.pinimg.com/736x/df/a2/4d/dfa24d8a25651ce228bbc24a36049d7f.jpg)
+
+</details>
