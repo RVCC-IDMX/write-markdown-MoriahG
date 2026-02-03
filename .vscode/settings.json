@@ -11,5 +11,7 @@
       "strings": false
     }
   },
-  "markdown.preview.breaks": true
+  "markdown.preview.breaks": true,
+  "search.useIgnoreFiles": true,
+  "specstory.showDeveloperTools": true
 }
